@@ -1,0 +1,6 @@
+test_img2/3.jpg 3
+test_img2/4.jpg 4
+test_img2/5.jpg 5
+test_img2/6.jpg 6
+test_img2/8.jpg 8
+test_img2/9.jpg 9
