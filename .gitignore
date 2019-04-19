@@ -3,6 +3,8 @@ datasets/
 checkpoints/
 models/
 results/
+# ML data - etc
+image-data
 
 ### Python template
 # Byte-compiled / optimized / DLL files
@@ -118,3 +120,4 @@ data/evaluation_data
 .venv
 
 *~
+

@@ -1,0 +1,4 @@
+./dataset/test-img3/1.jpeg 1
+./dataset/test-img3/2.jpeg 2
+./dataset/test-img3/3.jpeg 3
+./dataset/test-img3/4.jpeg 4

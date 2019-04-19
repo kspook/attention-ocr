@@ -1,0 +1,10 @@
+./dataset/word-img/hangul-images/hangul_517.jpeg 신한
+./dataset/word-img/hangul-images/hangul_518.jpeg 신한
+./dataset/word-img/hangul-images/hangul_519.jpeg 신한
+./dataset/word-img/hangul-images/hangul_520.jpeg 신한
+./dataset/word-img/hangul-images/hangul_521.jpeg 신한
+./dataset/word-img/hangul-images/hangul_522.jpeg 신한
+./dataset/word-img/hangul-images/hangul_523.jpeg 신한
+./dataset/word-img/hangul-images/hangul_524.jpeg 신한
+./dataset/word-img/hangul-images/hangul_525.jpeg 신한
+./dataset/word-img/hangul-images/hangul_526.jpeg 신한
