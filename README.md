@@ -58,7 +58,7 @@ The `--steps-per-checkpoint` parameter determines how often the model checkpoint
 aocr test ./datasets/testing.tfrecords
 ```
 
-Additionally, you can visualize the attention results during testing (saved to `results/` by default):
+Additionally, you can visualize the attention results during testing (saved to `out/` by default):
 
 ```
 aocr test --visualize ./datasets/testing.tfrecords
@@ -120,13 +120,13 @@ Now you can send a prediction request to the running server, for example:
 
 ```
 curl -X POST \
-  http://localhost:9001/v1/models/yourmodelname:predict \
+  http://localhost:9001/v1/models/aocr:predict \
   -H 'cache-control: no-cache' \
   -H 'content-type: application/json' \
   -d '{
   "signature_name": "serving_default",
   "inputs": {
-     	"input": { "b64": "/9j/4AAQ==" }
+     	"input": { "b64": "<your image encoded as base64>" }
   }
 }'
 ```
